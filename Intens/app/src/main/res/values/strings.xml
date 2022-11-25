@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Intens</string>
+    <string name="btn_1_str">Aprueta para cambiar intent</string>
+    <string name="hola">Hola</string>
+    <string name="btn_text_llamar">Llamar por telefono</string>
+    <string name="hint_edit">Pon un numero de telefono</string>
+    <string name="btn_2">Añadir imagen</string>
+</resources>

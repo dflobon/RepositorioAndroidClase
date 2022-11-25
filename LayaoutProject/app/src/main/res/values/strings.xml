@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LayaoutProject</string>
+    <string name="text_btn_añadir">Añadir</string>
+    <string name="hint_edt">Escribe algo que añadir</string>
+    <string-array name="paises">
+        <item>España</item>
+        <item>Inglaterra</item>
+        <item>Francia</item>
+        <item>Alemania</item>
+    </string-array>
+</resources>

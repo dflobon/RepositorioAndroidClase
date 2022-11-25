@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ProyectoSQLite</string>
+    <string name="consultar">Consultar</string>
+</resources>

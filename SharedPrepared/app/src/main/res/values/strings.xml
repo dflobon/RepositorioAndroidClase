@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SharedPrepared</string>
+    <string name="nada_guardado_escribe_algo">Nada guardado escribe algo</string>
+    <string name="guardar_en_preferencias">Guardar en preferencias</string>
+</resources>
