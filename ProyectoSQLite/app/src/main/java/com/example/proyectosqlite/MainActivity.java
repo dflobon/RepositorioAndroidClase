@@ -38,7 +38,7 @@ public class MainActivity extends AppCompatActivity {
         btn.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                new Thread(new UpdateUIPlanetsFromDB(planetList, MainActivity.this, dbHelper);
+                new Thread(new UpdateUIPlanetsFromDB(planetList, MainActivity.this, dbHelper));
                 ((ArrayAdapter)lst.getAdapter()).notifyDataSetChanged();
             }
         });
